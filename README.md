@@ -1,6 +1,4 @@
-Sure, I'll create a README file for the `parkd.py` script you uploaded. Here is a comprehensive README that you can upload to GitHub:
 
----
 
 # Parkinson's Disease Prediction System
 
